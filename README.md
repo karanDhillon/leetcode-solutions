@@ -5,3 +5,4 @@ Solution for the Leetcode problems in `Kotlin`.
 | # | Title | Solution | Time | Space | Difficulty |
 |---| ----- | -------- | ---- | ----- | ---------- |
 | 242 | [Valid anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/validAnagram.kt) | O(n) | O(1) | Easy |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/binarySearch.kt) | O(log n) | O(1) | Easy |
