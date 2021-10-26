@@ -8,5 +8,6 @@ Solution for the Leetcode problems in `Kotlin`.
 | 25 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/removeDuplicatesFromSortedArray.kt) | O(nums.size) | O(1) | Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/searchInsertPosition.kt) | O(log n) | TBD | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/addBinary.kt) | O(max(a.length, b.length)) | O(1) | Easy |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/mergeSortedArray.kt) | O(m+n) | O(1) | Easy |
 | 242 | [Valid anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/validAnagram.kt) | O(n) | O(1) | Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/binarySearch.kt) | O(log n) | O(1) | Easy |
