@@ -11,5 +11,6 @@ Solution for the Leetcode problems in `Kotlin`.
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/mergeSortedArray.kt) | O(m+n) | O(1) | Easy |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/validPalindrome.kt) | O(s.length) | O(1) | Easy |
 | 242 | [Valid anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/validAnagram.kt) | O(n) | O(1) | Easy |
-| 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/nAryTreePreorderTraversal.kt) | TBD | TBD | Easy |
+| 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/
+| 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/nAryTreePostorderTraversal.kt) | TBD | TBD | Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/binarySearch.kt) | O(log n) | O(1) | Easy |
