@@ -4,6 +4,7 @@ Solution for the Leetcode problems in `Kotlin`.
 
 | # | Title | Solution | Time | Space | Difficulty |
 |---| ----- | -------- | ---- | ----- | ---------- |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/addTwoNumbers.kt) | O(max(m,n)) | O(max(m,n)) | Medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/longestSubstringWithoutRepeatingCharacters.kt) | O(s.length) | O(size of character set) | Medium |
 | 25 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/removeDuplicatesFromSortedArray.kt) | O(nums.size) | O(1) | Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/searchInsertPosition.kt) | O(log n) | TBD | Easy |
