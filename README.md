@@ -21,6 +21,7 @@ Solution for the Leetcode problems in `Kotlin`.
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/binaryTreeRightSideView.kt) | TBD | TBD | Medium |
 | 242 | [Valid anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/validAnagram.kt) | O(n) | O(1) | Easy |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/binaryTreePaths.kt) | TBD | TBD | Easy |
+| 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/palindromePermutation.kt) | TBD | TBD | Easy |
 | 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/closestBinarySearchTreeValue.kt) | TBD | TBD | Easy |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/firstBadVersion.kt) | O(log n) | O(1) | Easy |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/moveZeroes.kt) | TBD | TBD | Easy |
