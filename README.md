@@ -29,3 +29,4 @@ Solution for the Leetcode problems in `Kotlin`.
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/nAryTreePreorderTraversal.kt) | TBD | TBD | Easy |
 | 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/nAryTreePostorderTraversal.kt) | TBD | TBD | Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/binarySearch.kt) | O(log n) | O(1) | Easy |
+| 938 | [Range sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/rangeSumOfBst.kt) | TBD | TBD | Easy |
