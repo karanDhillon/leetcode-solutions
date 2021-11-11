@@ -35,3 +35,4 @@ Solution for the Leetcode problems in `Kotlin`.
 | 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/nAryTreePostorderTraversal.kt) | TBD | TBD | Easy |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/binarySearch.kt) | O(log n) | O(1) | Easy |
 | 938 | [Range sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/rangeSumOfBst.kt) | TBD | TBD | Easy |
+| 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/minimumRemoveToMakeValidParentheses.kt) | O(N) | O(N) | Medium |
