@@ -31,6 +31,7 @@ Solution for the Leetcode problems in `Kotlin`.
 | 200 | [Number of islands](https://leetcode.com/problems/number-of-islands/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/numberOfIslands.kt) | O(rows*cols) | O(rows*cols) | Medium |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/courseSchedule.kt) | TBD | TBD | Medium |
 | 242 | [Valid anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/validAnagram.kt) | O(n) | O(1) | Easy |
+| 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/meetingRooms.kt) | O(N Log N) | O(1) | Easy |
 | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/binaryTreePaths.kt) | TBD | TBD | Easy |
 | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/palindromePermutation.kt) | TBD | TBD | Easy |
 | 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/closestBinarySearchTreeValue.kt) | TBD | TBD | Easy |
