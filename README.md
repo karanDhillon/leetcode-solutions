@@ -4,6 +4,7 @@ Solution for the Leetcode problems in `Kotlin`.
 
 | # | Title | Solution | Time | Space | Difficulty |
 |---| ----- | -------- | ---- | ----- | ---------- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/twoSum.kt) | O(n) | O(n) | Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/addTwoNumbers.kt) | O(max(m,n)) | O(max(m,n)) | Medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/longestSubstringWithoutRepeatingCharacters.kt) | O(s.length) | O(size of character set) | Medium |
 | 4 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/longestPalindromicSubstring.kt) | O(n^2) | O(1) | Medium |
