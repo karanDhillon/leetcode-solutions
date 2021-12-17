@@ -17,6 +17,7 @@ Solution for the Leetcode problems in `Kotlin`.
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/searchInsertPosition.kt) | O(log n) | TBD | Easy |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/maximumSubarray.kt) | O(nums.size) | O(1) | Easy |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/mergeIntervals.kt) | TBD | TBD | Medium |
+| 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/insertInterval.kt) | O(intervals.size) | O(intervals.size) | Medium |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/addBinary.kt) | O(max(a.length, b.length)) | O(1) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/mergeSortedArray.kt) | O(m+n) | O(1) | Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/binaryTreeInorderTraversal.kt) | TBD | TBD | Easy |
