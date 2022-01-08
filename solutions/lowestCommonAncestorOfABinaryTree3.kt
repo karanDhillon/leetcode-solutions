@@ -1,39 +1,38 @@
 class Solution {
-  var lca: Node? = null
-  
     fun lowestCommonAncestor(p: Node?, q: Node?): Node? {
-      val root = findRootNode(p)
+      var pNode = p
+      var qNode = q
       
-      searchTree(root, p!!, q!!)
+      var pd = findNodeDepth(p)
+      var qd = findNodeDepth(q)
       
-      return lca
-    }
-    
-    fun searchTree(
-      node: Node?,
-      p: Node,
-      q: Node
-    ): Boolean {
-      if (node == null) return false
-      
-      val n = if (
-        node.`val` == p.`val` || 
-        node.`val` == q.`val`
-      ) 1 else 0
-      val l = if (searchTree(node.left, p, q)) 1 else 0
-      val r = if (searchTree(node.right, p, q)) 1 else 0
-      
-      if (n + l + r == 2) {
-        lca = node
+      while (pd > qd) {
+        pNode = pNode?.parent
+        --pd
       }
       
-      return n + l + r > 0
+      while (qd > pd) {
+        qNode = qNode?.parent
+        --qd
+      }
+      
+      while (pNode != qNode) {
+        pNode = pNode?.parent
+        qNode = qNode?.parent
+      }
+      
+      return pNode
     }
     
-    fun findRootNode(node: Node?): Node? {
-      if (node == null) return null
-      if (node?.parent == null) return node
-  
-      return findRootNode(node.parent)
+    fun findNodeDepth(node: Node?): Int {
+      var depth = 0
+      var parent = node?.parent
+      
+      while (parent != null) {
+        depth++
+        parent = parent?.parent
+      }
+      
+      return depth
     }
 }
