@@ -73,6 +73,7 @@ Solution for the Leetcode problems in `Kotlin`.
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/validPalindrome2.kt) | TBD | TBD | Easy |
 | 695 | [Max area of island](https://leetcode.com/problems/max-area-of-island/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/maxAreaOfIsland.kt) | O(row * col) | O(row * col) | Medium |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/binarySearch.kt) | O(log n) | O(1) | Easy |
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/findPivotIndex.kt) | O(n) | O(1) | Easy |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/dailyTemperatures.kt) | O(n) | O(n) | Medium |
 | 766 | [Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/toeplitzMatrix.kt) | O(m * n) | O(1) | Easy |
 | 791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string/) | [Solution](https://github.com/karanDhillon/leetcode-solutions/blob/master/solutions/customSortString.kt) | O(n) | O(1) | Easy |
